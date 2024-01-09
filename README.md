@@ -1,1 +1,0 @@
-# Responsywnosc-stron
