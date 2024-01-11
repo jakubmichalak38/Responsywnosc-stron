@@ -1,0 +1,11 @@
+div
+{
+    background-color:red;
+}
+@media handheld, tv, tty, projection, screen 
+{ 
+    div 
+    {
+        background-color:green;
+    }
+}
